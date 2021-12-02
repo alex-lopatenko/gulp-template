@@ -1,6 +1,6 @@
-.menu {
-  &__list {
-    margin: 0;
-    padding: 0;
-  }
-}
+@import 'vars';
+@import 'fonts';
+@import 'reset';
+@import 'global';
+
+@import 'media';
